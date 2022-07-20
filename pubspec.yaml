@@ -1,0 +1,14 @@
+name: validate_ksa_number
+description: A simple package to validate saudi arabia's numbers
+version: 1.0.0
+homepage: https://github.com/kururu-abdo/validateKsaNumber
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0

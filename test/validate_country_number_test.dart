@@ -1,4 +1,4 @@
-import 'package:validate_ksa_number/validate_country_number.dart';
+import 'package:validate_ksa_number/validate_ksa_number.dart';
 import 'package:test/test.dart';
 
 void main() {

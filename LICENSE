@@ -1,0 +1,15 @@
+## **Idea:** {{validateKSaNumbers}}
+
+ - **Possible Mentor(s)**: `{{wdalhajana50@gmail.com}}`
+ - **Difficulty**: {{easy }}
+ - **Skills**: {{dart  ,validation}}; ...
+
+**Description**:
+{{
+    simple dart package to validate KSA Numbers
+}}
+
+**Getting Started**
+{{just install the package and good to go}}
+
+----

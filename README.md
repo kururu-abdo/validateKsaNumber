@@ -10,8 +10,7 @@ For general information about developing packages, see the Dart guide for
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
-
-TODO: A simple Package to validate saudi arabia's Numbers using Regex
+ A simple Package to validate saudi arabia's Numbers using Regex
 
 ## Features
 
@@ -23,8 +22,6 @@ install the package and good to do
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
 
 ```dart
 KsaNumber ksaNumber = new KsaNumber();
